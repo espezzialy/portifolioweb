@@ -3,7 +3,8 @@ module.exports = [
         id: "vKazFN3nbhs",
         title: "Universo Kotlin | RocketSeat",
         duration: "37 min",
-        price: "Free"
+        price: "Free",
+        featured: true
     },
     
     {
@@ -24,7 +25,8 @@ module.exports = [
         id: "jLlOnsIapdQ",
         title: "Video 4",
         duration: "37 min",
-        price: "Free"
+        price: "Free",
+        featured: true
     },
 
     {
